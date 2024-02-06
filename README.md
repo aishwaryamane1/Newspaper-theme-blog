@@ -2,7 +2,7 @@
 <h2>Ibn Vrutta Sanstha News Website (Work in Progress)</h2>
 
 <h4>About</h4>
-This project aims to provide a platform for my father, who is a journalist, to publish news articles and stories in Marathi. Leveraging the Newspaper theme, the website offers a user-friendly interface for both creators and consumers of news content.
+This project aims to provide a platform for my father, who is a journalist, to publish news articles and videos in Marathi Language. Leveraging the Newspaper theme, the website offers a user-friendly interface for both creators and consumers of news content.
 
 <h4>Features</h4>
 <bold> Current Status: </bold> The website is live and accessible at [ibnvruttasanstha.com]. It currently features news articles in text and image formats.
